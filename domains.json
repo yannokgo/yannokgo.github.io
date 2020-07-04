@@ -1,0 +1,808 @@
+{
+    "domains": [
+        {
+            "name": "okgo.auction",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Mar 26, 2021"
+        },
+        {
+            "name": "okgo.cafe",
+            "registrar": "Google",
+            "price": 59,
+            "renewal": "Mar 22, 2021"
+        },
+        {
+            "name": "okgo.cards",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 1, 2021"
+        },
+        {
+            "name": "okgo.casino",
+            "registrar": "Google",
+            "price": 211,
+            "renewal": "Mar 25, 2021"
+        },
+        {
+            "name": "okgo.club",
+            "registrar": "Google",
+            "price": 22,
+            "renewal": "May 6, 2021"
+        },
+        {
+            "name": "okgo.codes",
+            "registrar": "Google",
+            "price": 75,
+            "renewal": "Apr 24, 2021"
+        },
+        {
+            "name": "okgo.community",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Jun 1, 2021"
+        },
+        {
+            "name": "okgo.condos",
+            "registrar": "Google",
+            "price": 75,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.credit",
+            "registrar": "Google",
+            "price": 177,
+            "renewal": "Apr 1, 2021"
+        },
+        {
+            "name": "okgo.cruises",
+            "registrar": "Google",
+            "price": 75,
+            "renewal": "May 10, 2021"
+        },
+        {
+            "name": "okgo.dentist",
+            "registrar": "Google",
+            "price": 59,
+            "renewal": "Jun 1, 2021"
+        },
+        {
+            "name": "okgo.dev",
+            "registrar": "Google",
+            "price": 19,
+            "renewal": "May 6, 2021"
+        },
+        {
+            "name": "okgo.dog",
+            "registrar": "Google",
+            "price": 59,
+            "renewal": "Mar 21, 2021"
+        },
+        {
+            "name": "okgo.domains",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Mar 22, 2021"
+        },
+        {
+            "name": "okgo.email",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "Mar 31, 2021"
+        },
+        {
+            "name": "okgo.estate",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 9, 2021"
+        },
+        {
+            "name": "okgo.events",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.florist",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Jun 7, 2021"
+        },
+        {
+            "name": "okgo.foundation",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 26, 2021"
+        },
+        {
+            "name": "okgo.games",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "Mar 24, 2021"
+        },
+        {
+            "name": "okgo.how",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 25, 2021"
+        },
+        {
+            "name": "okgo.news",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Mar 28, 2021"
+        },
+        {
+            "name": "okgo.ninja",
+            "registrar": "Google",
+            "price": 29,
+            "renewal": "Mar 25, 2021"
+        },
+        {
+            "name": "okgo.page",
+            "registrar": "Google",
+            "price": 16,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.pub",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.pw",
+            "registrar": "Google",
+            "price": 14,
+            "renewal": "Apr 12, 2021"
+        },
+        {
+            "name": "okgo.rocks",
+            "registrar": "Google",
+            "price": 21,
+            "renewal": "Mar 31, 2021"
+        },
+        {
+            "name": "okgo.site",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "Mar 31, 2021"
+        },
+        {
+            "name": "okgo.soccer",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "Jun 1, 2021"
+        },
+        {
+            "name": "okgo.store",
+            "registrar": "Google",
+            "price": 75,
+            "renewal": "Apr 9, 2021"
+        },
+        {
+            "name": "okgo.studio",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.taxi",
+            "registrar": "Google",
+            "price": 89,
+            "renewal": "Mar 25, 2021"
+        },
+        {
+            "name": "okgo.tech",
+            "registrar": "Google",
+            "price": 59,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.video",
+            "registrar": "Google",
+            "price": 30,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.vision",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "May 10, 2021"
+        },
+        {
+            "name": "okgo.voyage",
+            "registrar": "Google",
+            "price": 75,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgo.watch",
+            "registrar": "Google",
+            "price": 45,
+            "renewal": "Apr 12, 2021"
+        },
+        {
+            "name": "okgo.wine",
+            "registrar": "Google",
+            "price": 89,
+            "renewal": "Apr 19, 2021"
+        },
+        {
+            "name": "okgoji.ca",
+            "registrar": "Google",
+            "price": 19,
+            "renewal": "May 5, 2021"
+        },
+        {
+            "name": "okgoji.com",
+            "registrar": "Google",
+            "price": 19,
+            "renewal": "May 18, 2021"
+        },
+        {
+            "name": "okgoji.net",
+            "registrar": "Google",
+            "price": 19,
+            "renewal": "May 20, 2021"
+        },
+        {
+            "name": "okgoji.org",
+            "registrar": "Google",
+            "price": 19,
+            "renewal": "May 20, 2021"
+        },
+        {
+            "name": "okgoji.pw",
+            "registrar": "Google",
+            "price": 14,
+            "renewal": "May 21, 2021"
+        },
+        {
+            "name": "paradigm.industries",
+            "registrar": "Google",		
+            "price": 45,
+            "renewal": "Mar 21, 2021"
+        },
+        {
+            "name": "okgo.agency",
+            "registrar": "NameCheap",
+            "price": 29,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.ai",
+            "registrar": "NameCheap",
+            "price": 94,
+            "renewal": "May 2, 2022"
+        },
+        {
+            "name": "okgo.art",
+            "registrar": "NameCheap",
+            "price": 53,
+            "renewal": "May 23, 2022"
+        },
+        {
+            "name": "okgo.baby",
+            "registrar": "NameCheap",
+            "price": 91,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.blog",
+            "registrar": "NameCheap",
+            "price": 35,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.blue",
+            "registrar": "NameCheap",
+            "price": 22,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.boutique",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.business",
+            "registrar": "NameCheap",
+            "price": 14,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.buzz",
+            "registrar": "NameCheap",
+            "price": 48,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.cam",
+            "registrar": "NameCheap",
+            "price": 30,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.capital",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.care",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.casa",
+            "registrar": "NameCheap",
+            "price": 16,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.cash",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.clinic",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.cloud",
+            "registrar": "NameCheap",
+            "price": 30,
+            "renewal": "May 1, 2022"
+        },
+        {
+            "name": "okgo.design",
+            "registrar": "NameCheap",
+            "price": 61,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.digital",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.doctor",
+            "registrar": "NameCheap",
+            "price": 111,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.fashion",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.finance",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.fish",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.fit",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.fitness",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.fund",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.garden",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.gift",
+            "registrar": "NameCheap",
+            "price": 26,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.gifts",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 9, 2021"
+        },
+        {
+            "name": "okgo.gold",
+            "registrar": "NameCheap",
+            "price": 111,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.graphics",
+            "registrar": "NameCheap",
+            "price": 29,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.guide",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.guru",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.health",
+            "registrar": "NameCheap",
+            "price": 94,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.help",
+            "registrar": "NameCheap",
+            "price": 35,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.host",
+            "registrar": "NameCheap",
+            "price": 120,
+            "renewal": "May 1, 2026"
+        },
+        {
+            "name": "okgo.house",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.insure",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.kim",
+            "registrar": "NameCheap",
+            "price": 22,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.legal",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.llc",
+            "registrar": "NameCheap",
+            "price": 34,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.love",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.mobi",
+            "registrar": "NameCheap",
+            "price": 25,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.money",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 28, 2021"
+        },
+        {
+            "name": "okgo.monster",
+            "registrar": "NameCheap",
+            "price": 19,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.name",
+            "registrar": "NameCheap",
+            "price": 12,
+            "renewal": "May 28, 2021"
+        },
+        {
+            "name": "okgo.observer",
+            "registrar": "NameCheap",
+            "price": 18,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.one",
+            "registrar": "NameCheap",
+            "price": 15,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.party",
+            "registrar": "NameCheap",
+            "price": 36,
+            "renewal": "May 24, 2021"
+        },
+        {
+            "name": "okgo.pics",
+            "registrar": "NameCheap",
+            "price": 37,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.pizza",
+            "registrar": "NameCheap",
+            "price": 64,
+            "renewal": "May 9, 2021"
+        },
+        {
+            "name": "okgo.poker",
+            "registrar": "NameCheap",
+            "price": 64,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.porn",
+            "registrar": "NameCheap",
+            "price": 121,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.press",
+            "registrar": "NameCheap",
+            "price": 90,
+            "renewal": "May 7, 2022"
+        },
+        {
+            "name": "okgo.pro",
+            "registrar": "NameCheap",
+            "price": 22,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.recipes",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.red",
+            "registrar": "NameCheap",
+            "price": 23,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.rent",
+            "registrar": "NameCheap",
+            "price": 75,
+            "renewal": "May 28, 2021"
+        },
+        {
+            "name": "okgo.rentals",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 11, 2021"
+        },
+        {
+            "name": "okgo.rest",
+            "registrar": "NameCheap",
+            "price": 48,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.rodeo",
+            "registrar": "NameCheap",
+            "price": 12,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.run",
+            "registrar": "NameCheap",
+            "price": 28,
+            "renewal": "May 3, 2021"
+        },
+        {
+            "name": "okgo.science",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 1, 2030"
+        },
+        {
+            "name": "okgo.services",
+            "registrar": "NameCheap",
+            "price": 39,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.shoes",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.show",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.singles",
+            "registrar": "NameCheap",
+            "price": 39,
+            "renewal": "May 23, 2021"
+        },
+        {
+            "name": "okgo.software",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.stream",
+            "registrar": "NameCheap",
+            "price": 35,
+            "renewal": "May 28, 2021"
+        },
+        {
+            "name": "okgo.support",
+            "registrar": "NameCheap",
+            "price": 29,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.team",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "May 3, 2021"
+        },
+        {
+            "name": "okgo.tires",
+            "registrar": "NameCheap",
+            "price": 110,
+            "renewal": "Jun 7, 2021"
+        },
+        {
+            "name": "okgo.today",
+            "registrar": "NameCheap",
+            "price": 29,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.tube",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.ventures",
+            "registrar": "NameCheap",
+            "price": 63,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.vet",
+            "registrar": "NameCheap",
+            "price": 41,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.vodka",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.website",
+            "registrar": "NameCheap",
+            "price": 30,
+            "renewal": "May 1, 2023"
+        },
+        {
+            "name": "okgo.world",
+            "registrar": "NameCheap",
+            "price": 39,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.yoga",
+            "registrar": "NameCheap",
+            "price": 38,
+            "renewal": "May 1, 2021"
+        },
+        {
+            "name": "okgo.bet",
+            "registrar": "IWMN.com",
+            "price": 34,
+            "renewal": "Jun 28, 2021"
+        },
+        {
+            "name": "okgo.quebec",
+            "registrar": "IWMN.com",
+            "price": 81,
+            "renewal": "May 7, 2021"
+        },
+        {
+            "name": "okgo.tattoo",
+            "registrar": "IWMN.com",
+            "price": 95,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.cat",
+            "registrar": "101domain",
+            "price": 52,
+            "renewal": "May 3, 2021"
+        },
+        {
+            "name": "okgo.dj",
+            "registrar": "101domain",
+            "price": 134,
+            "renewal": "May 3, 2021"
+        },
+        {
+            "name": "okgo.im",
+            "registrar": "101domain",
+            "price": 38,
+            "renewal": "May 3, 2021"
+        },
+        {
+            "name": "okgo.kiwi",
+            "registrar": "101domain",
+            "price": 59,
+            "renewal": "May 2, 2021"
+        },
+        {
+            "name": "okgo.lgbt",
+            "registrar": "101domain",
+            "price": 33,
+            "renewal": "Jun 7, 2021"
+        },
+        {
+            "name": "okgo.organic",
+            "registrar": "101domain",
+            "price": 33,
+            "renewal": "Jun 2, 2021"
+        },
+        {
+            "name": "okgo.pet",
+            "registrar": "101domain",
+            "price": 19,
+            "renewal": "Jun 28, 2021"
+        },
+        {
+            "name": "okgo.ski",
+            "registrar": "101domain",
+            "price": 33,
+            "renewal": "Jun 2, 2021"
+        }
+    ]
+}
