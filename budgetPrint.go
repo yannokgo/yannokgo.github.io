@@ -1,3 +1,22 @@
+package main
+
+import ("fmt"
+        "encoding/json"
+        "io/ioutil"
+        "os"
+)
+
+type Budget struct {
+    User    	string          `json:"user"`
+	Wallet  	map[string]int64	`json:"wallet"`
+	Commodities	map[string]int64		`json:"commodities"`
+	Annual  	map[string]int64	`json:"annual"`
+	Savings  	map[string]int64	`json:"savings"`
+    Id      	int64           `json:"id"`
+    Created 	string       `json:"created"`
+    private 	string //unexported CapLetter
+}
+
 func main() {
 
     /*------jsonPARSER------*/
